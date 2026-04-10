@@ -20,3 +20,8 @@ To detect fraudulent financial transactions using machine learning techniques.
 
 ## Tools Used
 Python, Pandas, Scikit-learn, LightGBM
+
+## Dataset
+The dataset is too large to upload to GitHub.
+The dataset used in this project is available on Kaggle:
+https://www.kaggle.com/datasets/ealaxi/paysim1
